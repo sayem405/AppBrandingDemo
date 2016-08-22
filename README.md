@@ -1,6 +1,8 @@
 # AppBrandingDemo
 A way of showing App branding instead Splash Screen
 
+https://cloud.githubusercontent.com/assets/5779992/17846818/7c9daa42-686c-11e6-8135-397b9ce5f0c8.png
+
 Protip from LaneLake : https://plus.google.com/+AndroidDevelopers/posts/Z1Wwainpjhd
 
 Additional note from LaneLake : 
